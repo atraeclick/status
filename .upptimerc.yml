@@ -5,8 +5,8 @@ repo: status # The name of this repository
 sites:
   - name: atraeclick
     url: https://atraeclick.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: pyjamacoaches.com
+    url: https://pyjamacoaches.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
@@ -16,7 +16,7 @@ status-website:
   #logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   logoUrl: https://atraeclick.com/wp-content/uploads/2021/04/Isotipo-NOD.png
   name: atraeclick.com Status
-  introTitle: "**atraeclick.com** is the open-source uptime monitor and status page"
+  introTitle: "**atraeclick.com** projects monitor status page"
   introMessage: 
   navbar:
     - title: Status
