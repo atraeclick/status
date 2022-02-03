@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 818,
-    "timeDay": 818,
-    "timeWeek": 818,
-    "timeMonth": 818,
-    "timeYear": 818,
+    "time": 804,
+    "timeDay": 804,
+    "timeWeek": 804,
+    "timeMonth": 804,
+    "timeYear": 804,
     "dailyMinutesDown": {}
   },
   {
@@ -23,18 +23,19 @@
     "icon": "https://favicons.githubusercontent.com/pyjamacoaches.com",
     "slug": "pyjamacoaches-com",
     "status": "down",
-    "uptime": "79.64%",
-    "uptimeDay": "79.64%",
-    "uptimeWeek": "79.64%",
-    "uptimeMonth": "79.64%",
-    "uptimeYear": "79.64%",
-    "time": 7295,
-    "timeDay": 7295,
-    "timeWeek": 7295,
-    "timeMonth": 7295,
-    "timeYear": 7295,
+    "uptime": "0.10%",
+    "uptimeDay": "0.10%",
+    "uptimeWeek": "0.10%",
+    "uptimeMonth": "0.10%",
+    "uptimeYear": "0.10%",
+    "time": 7254,
+    "timeDay": 7254,
+    "timeWeek": 7254,
+    "timeMonth": 7254,
+    "timeYear": 7254,
     "dailyMinutesDown": {
-      "2022-02-02": 0
+      "2022-02-03": 25,
+      "2022-02-02": 519
     }
   }
 ]
