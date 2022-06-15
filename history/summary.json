@@ -4,19 +4,19 @@
     "url": "https://atraeclick.com",
     "icon": "https://favicons.githubusercontent.com/atraeclick.com",
     "slug": "atraeclick",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 884,
-    "timeDay": 332,
-    "timeWeek": 562,
-    "timeMonth": 1128,
-    "timeYear": 884,
+    "status": "up",
+    "uptime": "99.99%",
+    "uptimeDay": "98.95%",
+    "uptimeWeek": "99.85%",
+    "uptimeMonth": "99.97%",
+    "uptimeYear": "99.99%",
+    "time": 883,
+    "timeDay": 460,
+    "timeWeek": 579,
+    "timeMonth": 1116,
+    "timeYear": 883,
     "dailyMinutesDown": {
-      "2022-06-15": 0
+      "2022-06-15": 15
     }
   }
 ]
