@@ -5,16 +5,16 @@
     "icon": "https://icons.duckduckgo.com/ip3/atraeclick.com.ico",
     "slug": "atraeclick",
     "status": "up",
-    "uptime": "68.95%",
+    "uptime": "68.98%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "27.88%",
-    "time": 1193,
-    "timeDay": 461,
-    "timeWeek": 453,
-    "timeMonth": 451,
-    "timeYear": 1176,
+    "uptimeYear": "28.16%",
+    "time": 1187,
+    "timeDay": 532,
+    "timeWeek": 450,
+    "timeMonth": 450,
+    "timeYear": 1170,
     "dailyMinutesDown": {
       "2025-04-08": 411,
       "2025-04-07": 1409,
@@ -277,8 +277,7 @@
       "2024-07-24": 1440,
       "2024-07-23": 1440,
       "2024-07-22": 1440,
-      "2024-07-21": 1440,
-      "2024-07-20": 1440
+      "2024-07-21": 1440
     }
   }
 ]
